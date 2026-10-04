@@ -1,0 +1,12 @@
+# 전체 게임 시간(분)
+total-minutes: 100
+# 남은 시간이 이 값(분) 이하가 되면 자기장 축소 + 술래 힘 I
+shrink-at-remaining-minutes: 15
+border-size: 600
+# 남은 15분에 줄어드는 크기 (150으로 확정)
+shrink-size: 150
+# 첫 교체 이후 술래의 실명/이동 제한 시간(초)
+freeze-seconds: 60
+# 리스폰 보상: 지급 레벨 / 책장 개수 (마법부여대는 1개 고정)
+respawn-levels: 10000
+respawn-bookshelves: 64
